@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.pkl
+.ipynb_checkpoints/
+data/heart.csv
+models/
